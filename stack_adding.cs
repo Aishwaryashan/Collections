@@ -19,9 +19,5 @@ public class StackExample
             Console.WriteLine(name);  
         }  
   
-        Console.WriteLine("Peek element: "+names.Peek());  
-        Console.WriteLine("Pop: "+ names.Pop());  
-        Console.WriteLine("Peek element present: " + names.Peek());  
-  
     }  
 }  
