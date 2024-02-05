@@ -16,9 +16,5 @@ public class QueueExample
         {  
             Console.WriteLine(name);  
         }  
-  
-        Console.WriteLine("Peek element: "+names.Peek());  
-        Console.WriteLine("Dequeue: "+ names.Dequeue());  
-        Console.WriteLine("After Dequeue, Peek element: " + names.Peek());  
     }  
 }  
